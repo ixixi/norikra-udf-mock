@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "norikra-udf-mock"
+  spec.name          = "norikra-udf-my"
   spec.version       = "0.0.2"
-  spec.authors       = ["TAGOMORI Satoshi"]
-  spec.email         = ["tagomoris@gmail.com"]
-  spec.description   = %q{UDF mocks for Norikra development}
-  spec.summary       = %q{Norikra UDF mock}
-  spec.homepage      = "https://github.com/tagomoris/norikra-udf-mock"
+  spec.authors       = ["Yuri Odagiri"]
+  spec.email         = ["ixixizko@gmail.com"]
+  spec.description   = %q{UDF example for Norikra development}
+  spec.summary       = %q{Norikra UDF example}
+  spec.homepage      = "https://github.com/ixixi/norikra-udf-my"
   spec.license       = "GPLv2"
   spec.platform      = "java" #Gem::Platform::JAVA
 
